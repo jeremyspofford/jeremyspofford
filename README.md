@@ -1,28 +1,3 @@
-<style>
-    .languages a {
-        padding: 10px;
-    }
-
-    .card {
-        margin: 20px 0;
-    }
-
-    .center {
-        text-align: center;
-    }
-
-    .row {
-        width: 100%;
-        display: inline-block;
-    }
-
-    .column {
-        width: calc(50% - 20px);
-        float: left;
-        margin-right: 10px;
-    }
-</style>
-
 <h1 class="center">Hi 👋, I'm Jeremy Spofford</h1>
 <p> 
     <img src="https://komarev.com/ghpvc/?username=jeremyspofford&label=Profile%20views&color=0e75b6&style=flat" alt="jeremyspofford" /> 
